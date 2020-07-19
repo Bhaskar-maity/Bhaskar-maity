@@ -11,12 +11,9 @@ An enthusiast who try to bring out interesting aspects in projects and trying to
 - 😄 Pronouns: He/Him👦.
 - ⚡ Fun fact: Working whole night, sleeping in day😎.
 - 📫 How to reach me: maitybhaskar2015@gmail.com <br/>[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/bhaskar-maity-882653190/)
-<img src="https://github-readme-stats.vercel.app/api?username=Bhaskar-maity&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
-
-
-
 
 <!--
+<img src="https://github-readme-stats.vercel.app/api?username=Bhaskar-maity&&show_icons=true&title_color=08fdd8&icon_color=bb2acf&text_color=ffffff&bg_color=0a192f" width="100%"/>
 **Bhaskar-maity/Bhaskar-maity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
