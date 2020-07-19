@@ -10,7 +10,10 @@ An enthusiast who try to bring out interesting aspects in projects and trying to
 - 💬 Ask me about anythig, I'm happy to help!!.
 - 😄 Pronouns: He/Him👦.
 - ⚡ Fun fact: Working whole night, sleeping in day😎.
-- 📫 How to reach me: [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/bhaskar-maity-882653190/)
+- 📫 How to reach me: maitybhaskar2015@gmail.com <br/>[<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/bhaskar-maity-882653190/)
+
+
+
 
 <!--
 **Bhaskar-maity/Bhaskar-maity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
