@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ... 
 -->
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=shivammaheshwari9837&show_icons=true&cache_seconds=86400) 
+![Github stats](https://github-readme-stats.vercel.app/api?username=Bhaskar-maity&show_icons=true&cache_seconds=86400) 
