@@ -1,6 +1,5 @@
-### Hi there 👋 , I'm Bhaskar Maity 👤
+### Hi there 👋 , I'm Bhaskar 👤
 
-### I'm a Competetive programmer | Aspiring Developer | Machine Learning enthusiast 🤖
 
 ![Full Stack Web Developer](https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif)
 
@@ -30,3 +29,5 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Bhaskar-maity&show_icons=true&cache_seconds=86400) 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Bhaskar-maity&" /></p>
+
